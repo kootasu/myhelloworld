@@ -1,2 +1,2 @@
 # myhelloworld
-School project or learning about Jenkins
+School project for learning about Jenkins
